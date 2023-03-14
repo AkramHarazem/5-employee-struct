@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678432717 source:d:\iti 3 months\day 1\day 4 5 employee struct\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+	<windows.h>
+
